@@ -1,4 +1,4 @@
-# Coders4Africa  Node.js/JavaScript Style Guide.
+# Coders4Africa Node.js/JavaScript Style Guide.
 
 ## This is a fork of [RisingStack styleguide](https://github.com/RisingStack/node-style-guide)
 
